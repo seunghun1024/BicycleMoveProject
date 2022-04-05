@@ -3,11 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.12048192771084337" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout-w936dp/activity_login2.xml" value="0.12260928961748634" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_googleMap.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_googlemap.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_login.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_login2.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/Haniln/AndroidStudioProjects/BicycleMoveProject/app/src/main/res/layout/activity_signup.xml" value="0.14947916666666666" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
